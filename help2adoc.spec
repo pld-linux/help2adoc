@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	help2adoc - tool to convert help output to asciidoc
 Summary(pl.UTF-8):	help2adoc - narzędzie do konwersji wyjścia pomocy do formatu asciidoc
 Name:		help2adoc
